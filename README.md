@@ -1,5 +1,5 @@
 # Streamlit_SP500
-Predicting Stock Prices
+## Predicting Stock Prices
 
 
 [![Visit Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://finsp500.streamlit.app/)
